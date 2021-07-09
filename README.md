@@ -1,13 +1,13 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=MachelleZhang&color=8BD6D8" />
+<img align="middle" src="https://komarev.com/ghpvc/?username=MachelleZhang&color=8BD6D8" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=MachelleZhang&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
 #### 欢迎来到我的代码记录站
-* :leo:八月份的前奏
-* :tv:番剧追逐者
-* :video_game:Switch慢游家
-* :eight:年码龄
-* :underage:老涩批
-* :u5272:韭菜
+- :leo:八月份的前奏
+- :tv:番剧追逐者
+- :video_game:Switch慢游家
+- :eight:年码龄
+- :underage:老涩批
+- :u5272:韭菜
 <!--
 **MachelleZhang/MachelleZhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
